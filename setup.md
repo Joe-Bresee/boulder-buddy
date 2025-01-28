@@ -16,4 +16,9 @@ The Hailo-8 chip requires models to be run in a `.hef` compiled format. I tried 
 
 To use the Hailo-8 chip with your models, download the Hailo software suite from the following link on a compatible system:
 
-[Download Hailo Software Suite](https://hailo.ai/developer-zone/sof)
+[Download Hailo Software Suite](https://hailo.ai/developer-zone/software-downloads/)
+
+There you can find various resources to compile models in hef format, their model zoo, and more.
+
+Or, I cloned their examples repo to access the models already in hef format:
+[Hailo Examples repo](https://github.com/hailo-ai/hailo-rpi5-examples?tab=readme-ov-file)
